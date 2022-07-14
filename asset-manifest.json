@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/autoExpress/static/js/main.5bdf2b8d.js",
+    "index.html": "/autoExpress/index.html",
+    "main.5bdf2b8d.js.map": "/autoExpress/static/js/main.5bdf2b8d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5bdf2b8d.js"
+  ]
+}
